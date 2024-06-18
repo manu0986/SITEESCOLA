@@ -1,4 +1,21 @@
-header{
-    background-color: blue
-    COLOR: aliceblue;
+*{
+    margin: 0;
+    padding: 0;
+    .cabeçalho{
+        background-color: blueviolet;
+        color: bisque;
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:24px 0;
+ }
+.foto{
+    width: 20%
+   }
 }
+.braços{
+    background-color: blueviolet;
+    color: black;
+}
+
+
